@@ -5,3 +5,4 @@
 
 ## Food
 [Falafel (Fried or Baked)](https://ah-jia.github.io/recipe-falafel-fried-or-baked)
+[Easy Hummus Recipe](https://ah-jia.github.io/recipe-easy-hummus-recipe)
