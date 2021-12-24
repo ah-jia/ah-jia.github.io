@@ -2,7 +2,7 @@
 ## For the grandkids
 - [Ah Jia Porridge](https://ah-jia.github.io/recipe-ah-jia-porridge/)
 
-## Baking
+## Cake
 - [Fruit Cake](https://ah-jia.github.io/recipe-fruit-cake/)
 
 ## Bread
