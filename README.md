@@ -2,8 +2,9 @@
 ## For the grandkids
 - [Ah Jia Porridge](https://ah-jia.github.io/recipe-ah-jia-porridge/)
 
-## Cake
+## Baking
 - [Fruit Cake](https://ah-jia.github.io/recipe-fruit-cake/)
+- [Pineapple Tart](https://ah-jia.github.io/recipe-pineapple-tart/)
 
 ## Bread
 - [Load Bread (Poolish Starter Dough)](https://ah-jia.github.io/recipe-loaf-bread-poolish-starter-dough/)
