@@ -5,6 +5,7 @@
 ## Baking
 - [Fruit Cake](https://ah-jia.github.io/recipe-fruit-cake/)
 - [Pineapple Tart](https://ah-jia.github.io/recipe-pineapple-tart/)
+- [Cashew Nut Biscuit](https://ah-jia.github.io/recipe-cashew-nut-biscuit/)
 
 ## Bread
 - [Load Bread (Poolish Starter Dough)](https://ah-jia.github.io/recipe-loaf-bread-poolish-starter-dough/)
