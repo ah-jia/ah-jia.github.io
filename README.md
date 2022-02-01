@@ -13,6 +13,7 @@
 - [Stollen (German Christmas Bread)](https://ah-jia.github.io/recipe-stollen-german-christmas-bread/)
 
 ## Food
+- [Yu Sheng](https://ah-jia.github.io/recipe-yu-sheng/)
 - [Hakka Yong Tau Hu](https://ah-jia.github.io/recipe-yong-tau-hu/)
 - [Falafel (Fried or Baked)](https://ah-jia.github.io/recipe-falafel-fried-or-baked/)
 - [Easy Hummus Recipe](https://ah-jia.github.io/recipe-easy-hummus-recipe/)
