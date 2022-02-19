@@ -3,6 +3,7 @@
 - [Ah Jia Porridge](https://ah-jia.github.io/recipe-ah-jia-porridge/)
 
 ## Baking
+- [Semolina Biscuit](https://ah-jia.github.io/recipe-semolina-biscuit/)
 - [Fruit Cake](https://ah-jia.github.io/recipe-fruit-cake/)
 - [Pineapple Tart](https://ah-jia.github.io/recipe-pineapple-tart/)
 - [Cashew Nut Biscuit](https://ah-jia.github.io/recipe-cashew-nut-biscuit/)
